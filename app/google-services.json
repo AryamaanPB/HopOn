@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977720217518",
+    "firebase_url": "https://hopon-c4d96.firebaseio.com",
+    "project_id": "hopon-c4d96",
+    "storage_bucket": "hopon-c4d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977720217518:android:4ab5b37dfe916fdd63023f",
+        "android_client_info": {
+          "package_name": "com.example.hopon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977720217518-kiejb9hnh004j98d82jcavej44sbpjmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hopon",
+            "certificate_hash": "5965f3f0e1b922aff9fb371788676292353dde29"
+          }
+        },
+        {
+          "client_id": "977720217518-6nc3tuh4199mvkvt12dqobt22ckgtscq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2iTArW3vvP493WfTcKIYVN6D7O_ovZUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977720217518-6nc3tuh4199mvkvt12dqobt22ckgtscq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
